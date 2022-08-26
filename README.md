@@ -1,4 +1,4 @@
-### Olá, Tudo bem? Meu nome é Davi Oliveira e sou estudante de Engenharia de Software
+### Olá, tudo bem? meu nome é Davi Oliveira e sou estudante de Engenharia de Software
 
 - 🔭 Atualmente estou a procura de um estágio back-end
 - 🌱 Estudando Python e Java
