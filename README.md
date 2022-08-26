@@ -1,10 +1,9 @@
 ### Olá, Tudo bem? Meu nome é Davi Oliveira e sou estudante de Engenharia de Software
 
 - 🔭 Atualmente estou a procura de um estágio back-end
-- 🌱 Estou estudando Python e Java
-- 🤔 Aceito qualquer ajuda que for possível com meus códigos
-- 📫 Para me contactar use o e-mail: davioliveiraparisnunes@gmail.com
-- 😄 Pronomes: ele/dele
+- 🌱 Estudando Python e Java
+- 🤔 Aceito ajuda com meus códigos
+- 📫 E-mail para contato: davioliveiraparisnunes@gmail.com
 
 
 <div align="center">
