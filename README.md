@@ -1,6 +1,6 @@
 ### Olá, tudo bem? meu nome é Davi Oliveira e sou estudante de Engenharia de Software
 
-- 🔭 Atualmente estou a procura de um estágio back-end
+- 🔭 Estagiário na Empresa KP Wealth Management
 - 🌱 Estudando Python e Java
 - 🤔 Aceito ajuda com meus códigos
 - 📫 E-mail para contato: davioliveiraparisnunes@gmail.com
